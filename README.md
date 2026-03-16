@@ -208,4 +208,3 @@ npm start
 - Built as part of academic project B230034CS
 - Uses modern web technologies for scalable alumni management
 - Designed for educational institutions to maintain alumni networks</content>
-<parameter name="filePath">/Users/susheel/B230034CS_Alumni_Data_Management_System/README.md
